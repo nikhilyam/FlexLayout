@@ -1,0 +1,46 @@
+.container {
+    width: 800px;
+    height: 1200px;
+    border: 3px solid skyblue;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.header {
+    width: 750px;
+    height: 120px;
+    border: 3px solid skyblue;
+}
+
+.box3 {
+    width: 215px;
+    height: 120px;
+    border: 3px solid skyblue;
+}
+
+.hero-box {
+    width: 750px;
+    height: 150px;
+    border: 3px solid skyblue;
+}
+
+.box2 {
+    width: 350px;
+    height: 300px;
+    border: 3px solid skyblue;
+}
+
+.box4 {
+    width: 150px;
+    height: 150px;
+    border: 3px solid skyblue;
+}
+
+.footer {
+    width: 750px;
+    height: 120px;
+    border: 3px solid skyblue;
+}

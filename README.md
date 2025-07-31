@@ -1,5 +1,5 @@
 Created an layout using HTML and CSS with FlexBox. It shows how we can easily use flex in css to achieve complex structure and layout.
-
+Also added multiple layouts.
 Technical Stack:
 HTML, CSS - FlexBox
 

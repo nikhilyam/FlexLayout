@@ -1,0 +1,107 @@
+.container {
+    width: 850px;
+    height: 800px;
+    margin: 0 auto;
+    display: flex;
+    background-color: paleturquoise;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.left-grp {
+    width: 400px;
+    height: 800px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: space-evenly;
+}
+
+.big-yellow-box {
+    height: 400px;
+    width: 400px;
+    background-color: rgb(255, 162, 0);
+}
+
+.lemon-yellow-box {
+    height: 125px;
+    width: 225px;
+    background-color: rgb(239, 231, 12);
+}
+
+.dark-green-box {
+    height: 125px;
+    width: 150px;
+    background-color: green;
+}
+
+.grp-red {
+    width: 400px;
+    height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: space-evenly;
+}
+
+.small-red-box {
+    height: 200px;
+    width: 80px;
+    background-color: red;
+}
+
+.right-grp {
+    width: 400px;
+    height: 800px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: space-evenly;
+}
+
+.black-box {
+    height: 300px;
+    width: 120px;
+    background-color: black;
+}
+
+.medium-yellow-box {
+    height: 175px;
+    width: 185px;
+    background-color: rgb(255, 162, 0);
+}
+
+.medium-red-box {
+    height: 175px;
+    width: 185px;
+    background-color: red;
+}
+
+.grp {
+    width: 400px;
+    height: 250px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+    align-items: center;
+}
+
+.light-green-box {
+    background-color: rgb(81, 235, 16);
+    width: 400px;
+    height: 115px;
+}
+
+.blue-box {
+    background-color: blue;
+    width: 400px;
+    height: 115px;
+}
+
+
+
+
+
+
+

@@ -1,7 +1,7 @@
-Created an layout using HTML and CSS with Flex to make responsive. It shows how we can easily use flex in css to achive complex structure and layout.
+Created an layout using HTML and CSS with FlexBox. It shows how we can easily use flex in css to achieve complex structure and layout.
 
 Technical Stack:
-HTML, CSS - Flex
+HTML, CSS - FlexBox
 
 Example Layout One:
 ![LayoutOneWithFlexCSS](https://github.com/user-attachments/assets/33961c74-f350-4188-8f2e-ca624cd7c8b1)
